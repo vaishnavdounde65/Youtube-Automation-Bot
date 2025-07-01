@@ -72,6 +72,6 @@ Unlock the full potential of our YouTube bot! 🚀 Watch the video below to see 
 
 <h1 align="center">⭐ Star History</h1> 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Arguee/Youtube-Automation-Bot&type=Date)](https://star-history.com/#Arguee/Youtube-Automation-Bot&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=vaishnavdounde65/Youtube-Automation-Bot&type=Date)](https://star-history.com/#Arguee/Youtube-Automation-Bot&Date)
 
 
